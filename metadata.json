@@ -1,0 +1,6 @@
+{
+  "name": "Gemini Pure",
+  "description": "تطبيق ذكي لإزالة العلامة المائية والشعارات من صور جيميناي بدقة واحترافية عالية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
